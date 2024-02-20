@@ -1,4 +1,4 @@
-#### TEAM MEMBERS : IFRAH NAAZ, LEKHYA BIRIDEPALLI (https://github.com/LekhyaBiridepalli/Java-Text-Based-Game)
+### TEAM MEMBERS : IFRAH NAAZ, LEKHYA BIRIDEPALLI (https://github.com/LekhyaBiridepalli/Java-Text-Based-Game)
 
 Welcome to the Text-Based Game repository! This project features three text-based games implemented in Java: Quiz, Adventure Game, and Guess the Movie.
 
