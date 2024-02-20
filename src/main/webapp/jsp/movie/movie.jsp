@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #a85350; /* muted teal */
+            background-color: #a85350; 
             margin: 0;
             padding: 0;
             display: flex;
@@ -15,26 +15,26 @@
             height: 100vh;
         }
         .container {
-    		width: 80%; /* Set width to cover 80% of the viewport */
-    		max-width: 600px; /* Limit maximum width */
-    		background-color: rgba(247, 223, 212, 0.6); /* light beige with 40% transparency */
+    		width: 80%; 
+    		max-width: 600px;
+    		background-color: rgba(247, 223, 212, 0.6);
     		padding: 40px;
     		border-radius: 10px;
    		 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     		text-align: center;
-    		margin: auto; /* Center horizontally */
+    		margin: auto; 
 		}
         h1 {
-            color: #33585a; /* muted teal */
+            color: #33585a; 
             margin-bottom: 20px;
         }
         p {
-            color: #33585a; /* muted teal */
+            color: #33585a; 
             margin-bottom: 20px;
         }
         .start-button {
-            background-color: #33585a; /* muted teal */
-            color: #f7dfd4; /* light beige */
+            background-color: #33585a; 
+            color: #f7dfd4; 
             padding: 14px 24px;
             border: none;
             border-radius: 4px;
@@ -44,7 +44,7 @@
             font-size: 16px;
         }
         .start-button:hover {
-            background-color: #8E563B; /* darker muted teal */
+            background-color: #8E563B; 
         }
     </style>
 </head>

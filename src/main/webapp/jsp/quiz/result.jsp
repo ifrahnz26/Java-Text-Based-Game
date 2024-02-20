@@ -52,7 +52,7 @@
         .home-button {
             background-color: #9370DB; /* Medium purple */
             color: white;
-            padding: 8px 16px; /* Adjust button padding */
+            padding: 8px 16px; 
             border: none;
             border-radius: 4px;
             cursor: pointer;

@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #141414; /* Darker shade of black */
+            background-color: #141414;
             color: #fff;
             margin: 0;
             padding: 0;
@@ -18,7 +18,7 @@
             height: 100vh;
         }
         .container {
-            max-width: 1000px; /* Max width for the entire content */
+            max-width: 1000px; 
             display: flex;
             justify-content: center;
             background-color: #2c2c2c;
@@ -26,7 +26,7 @@
             border-radius: 10px;
             width: 70%;
             text-align: center;
-            flex-direction: column; /* Align items vertically */
+            flex-direction: column; 
             padding: 20px
         }
         h1 {
@@ -38,36 +38,36 @@
         	color: #FFA07A;
         }
         .big-code {
-            font-size: 30px; /* Adjust the code font size */
+            font-size: 30px; 
         }
         p {
             font-size: 16px;
             margin-bottom: 10px;
         }
         .player-details-container {
-            background-color: #555555; /* Dark shade of black */
+            background-color: #555555;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
             padding: 20px;
-            margin-top: 10px; /* Add margin to create space between player details and game content */
-            width: 50%; /* Set width to 30% of container */
+            margin-top: 10px; 
+            width: 50%; 
             display: flex;
-            justify-content: center; /* Align content to the left */
+            justify-content: center; 
             align-items: center;
         }
         .player-details p {
             margin-bottom: 10px;
-            text-align: center; /* Align text to the left */
+            text-align: center; 
         }
         .game-content {
-            width: 100%; /* Set width to 70% of container */
+            width: 100%; 
             max-width: 800px;
         }
         input[type="text"] {
-            width: 300px; /* Adjust width of input field */
+            width: 300px; 
             padding: 10px;
             margin: 10px 0;
-            border: 2px solid #FF6347; /* Border color */
+            border: 2px solid #FF6347;
             border-radius: 5px;
             font-size: 16px;
         }
@@ -75,7 +75,7 @@
             outline: none;
         }
         button[type="submit"], button[type="button"] {
-            background-color: #FF6347; /* Button color */
+            background-color: #FF6347; 
             color: #fff;
             border: none;
             margin-top:10px;
@@ -86,7 +86,7 @@
             font-size: 16px;
         }
         button[type="submit"]:hover, button[type="button"]:hover {
-            background-color: #B22222; /* Darker color on hover */
+            background-color: #B22222; 
         }
         .result {
             background-color: #555555; 
@@ -98,10 +98,10 @@
             font-weight: bold;
             display: flex;
             width: 70%;
-            max-width: 500px; /* Limit width of result box */
-            justify-content: center; /* Align content to the left */
+            max-width: 500px; 
+            justify-content: center;
             align-items: center;
-            text-align: center; /* Center text */
+            text-align: center; 
         }
     </style>
     <script type="text/javascript">

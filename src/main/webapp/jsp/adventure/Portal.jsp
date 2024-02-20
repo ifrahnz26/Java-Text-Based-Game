@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #141414; /* Darker shade of black */
+            background-color: #141414; 
             color: #fff;
             margin: 0;
             padding: 0;
@@ -23,14 +23,14 @@
         }
         h1 {
             font-size: 36px;
-            color: #6495ED; /* Plum color */
+            color: #6495ED; 
         }
         p {
             font-size: 18px;
             margin-bottom: 20px;
         }
         .btn {
-            background-color: #4169E1; /* Plum color */
+            background-color: #4169E1;
             color: #fff;
             border: none;
             padding: 12px 24px;
@@ -41,7 +41,7 @@
             transition: background-color 0.3s ease;
         }
         .btn:hover {
-            background-color: #563d7c; /* Darker Plum color */
+            background-color: #563d7c;
         }
     </style>
 </head>

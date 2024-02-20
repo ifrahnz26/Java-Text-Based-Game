@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #33585a; /* light beige */
+            background-color: #33585a;
             margin: 0;
             padding: 0;
             display: flex;
@@ -15,24 +15,24 @@
             height: 100vh;
         }
         .container {
-    		width: 80%; /* Set width to cover 80% of the viewport */
-    		max-width: 800px; /* Limit maximum width */
-    		background-color: rgba(247, 223, 212, 0.6); /* light beige with 40% transparency */
+    		width: 80%; 
+    		max-width: 800px; 
+    		background-color: rgba(247, 223, 212, 0.6); 
     		padding: 40px;
     		border-radius: 10px;
     		box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     		text-align: center;
-   		 	margin: auto; /* Center horizontally */
+   		 	margin: auto;
 		}
 		
 		h2 {
-    		color: #a85350; /* muted teal */
+    		color: #a85350; 
     		margin-bottom: 20px;
-   		 	font-size: 40px; /* Adjust the font size to your preference */
+   		 	font-size: 40px; 
 		}
 		
         p {
-            color: #a85350; /* muted teal */
+            color: #a85350; 
             margin-bottom: 20px;
             font-size: 36px;
         }
@@ -40,13 +40,13 @@
             width: 80%;
             padding: 10px;
             margin-bottom: 20px;
-            border: 1px solid #a85350; /* muted teal */
+            border: 1px solid #a85350;
             border-radius: 4px;
             box-sizing: border-box;
         }
         input[type="submit"] {
-            background-color: #a85350; /* muted teal */
-            color: #f7dfd4; /* light beige */
+            background-color: #a85350;
+            color: #f7dfd4; 
             padding: 14px 20px;
             border: none;
             border-radius: 4px;
@@ -55,7 +55,7 @@
             transition: background-color 0.3s;
         }
         input[type="submit"]:hover {
-            background-color: #264d4f; /* darker muted teal */
+            background-color: #264d4f; 
         }
     </style>
 <script type="text/javascript">
