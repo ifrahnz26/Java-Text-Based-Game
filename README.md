@@ -27,7 +27,8 @@ The project includes three separate games, each implemented using Java Servlets 
 
 # Installation:
 
-To run the games locally, make sure you have Java Development Kit (JDK), Apache Tomcat, and a web browser installed on your machine. Follow these steps:
+To run the games locally, make sure you have Java Development Kit (JDK), Apache Tomcat, and a web browser installed on your machine (We made use of Eclipse).
+Follow these steps:
 
 1. Clone this repository to your local machine using Git.
 2. Deploy the project to Apache Tomcat server.
